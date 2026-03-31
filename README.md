@@ -200,8 +200,24 @@ Special thanks to **Mr. Baraa Khatib Salkini** for his mentorship and for provid
 
 ---
 
-## 📬 Contact
+## 🌟 About Me
 
-Feel free to connect or provide feedback on this project!
+Hi, I'm **Srishti Dev** — a **Data Engineer specializing in SQL Server, Python, and Data Warehousing**.  
+
+I approach data handling with a structured, problem-solving mindset—transforming raw data into clean, scalable, and insight-ready systems.
+
+---
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srishti-dev-sr1r1s/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/srishti_devv/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/srishti.dev.1)
+
+---
+
+📞 **Phone:** +91-8151815223  
+📍 **Location:** India  
+🚀 **Open to:** Data Engineering | SQL Developer | Analytics Roles  
 
 ---
